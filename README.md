@@ -1,6 +1,6 @@
 # coding-agent-pr-ops
 
-[Quick start](#quick-start) Â· [Content distribution](./CONTENT_DISTRIBUTION.md) Â· [Contributing](./CONTRIBUTING.md) Â· [License](./LICENSE)
+[Quick start](#quick-start) · [Contributing](./CONTRIBUTING.md) · [License](./LICENSE)
 
 A realistic coding-agent starter that turns a GitHub-style task into a patch plan, review checklist, and PR summary while tracing the full workflow with Tokvera.
 
@@ -19,7 +19,6 @@ This repo is built to be useful as:
 
 - a reference project for coding-agent operations
 - a Tokvera tracing example for multi-step engineering workflows
-- a traffic-friendly repo for blog posts, videos, and comparisons
 - a practical demo for teams evaluating coding-agent observability
 
 ## What it does
@@ -174,16 +173,10 @@ src/
 - support multi-agent handoff between planner, patcher, and reviewer
 - attach links to Tokvera traces inside generated PR summaries
 
-## Suggested article angles
-
-- What to trace before coding agents start opening pull requests
-- How to debug coding-agent handoffs with one root trace
-- How to turn AI coding incidents into regression tests
-- What engineering managers should review before trusting coding-agent PRs
-
 ## Related Tokvera concepts to highlight in content
 
 - one root trace for the full coding-agent workflow
 - child spans for diagnosis, repo context, and planning
 - release-aware engineering reviews
 - debugging multi-step agent handoffs instead of isolated model calls
+
