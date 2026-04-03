@@ -1,6 +1,6 @@
 # coding-agent-pr-ops
 
-[Quick start](#quick-start) · [Content distribution](./CONTENT_DISTRIBUTION.md) · [Contributing](./CONTRIBUTING.md) · [License](./LICENSE)
+[Quick start](#quick-start) · [Launch assets](./LAUNCH_ASSETS.md) · [Content distribution](./CONTENT_DISTRIBUTION.md) · [Contributing](./CONTRIBUTING.md) · [License](./LICENSE)
 
 A realistic coding-agent starter that turns a GitHub-style task into a patch plan, review checklist, and PR summary while tracing the full workflow with Tokvera.
 
